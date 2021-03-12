@@ -1,8 +1,5 @@
 /*
-    CSC 205: 37534 (Tues 9AM-12:30PM)
-    Program 1: Company Employee Tracking System
-    Author(s): Vivien Frances Pabuna (viv2163452)
-    Description: This is the primary class for Program 1. 
+    Description: This is the primary class for the program. 
     It handles the main menu options and helps the user manage employee additions, payments, and perform various modifications.
     It depends heavily on the other classes within the package and their methods.
 */

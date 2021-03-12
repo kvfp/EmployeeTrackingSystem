@@ -1,7 +1,4 @@
 /*
-    CSC 205: 37534 (Tues 9AM-12:30PM)
-    Program 1: Company Employee Tracking System
-    Author(s): Vivien Frances Pabuna (viv2163452)
     Description: This is a subclass of the Employee class. 
     It overrides some methods and declares some to provide appropriate functionality for non-hourly (salary) workers.
 */
